@@ -32,5 +32,6 @@ Our algorithm has a linear complexity: in best cases (empty matrix and any 1x1 i
 We used a Finite State Machine to implement this algorithm. 
 
 ## Authors
-Davide Savoldelli
-Enrico Voltan
+Davide Savoldelli.
+
+Enrico Voltan.
