@@ -1,6 +1,6 @@
 # Image Detector, a simple VHDL component
 ## Aim of the project
-This project aims to create a simple VHDL component which gets as input a list of bytes representing an image in a vritual RAM and writes in output the minimun area of the image filtering the bits greater than a specified threshold.
+This project aims to create a simple VHDL component which gets as input a list of bytes representing an image in a vritual RAM and writes in output the minimun area of the image filtering the bytes greater than a specified threshold.
 The memory is so composed:
 * addresses 0 to 1:                           reserved for further writing.
 * address  2:                                 the width of the image
